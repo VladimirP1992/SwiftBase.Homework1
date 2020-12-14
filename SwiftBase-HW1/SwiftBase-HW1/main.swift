@@ -1,4 +1,3 @@
-//
 //  main.swift
 //  SwiftBase-HW1
 //
